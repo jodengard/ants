@@ -1,2 +1,0 @@
-# ants
-ants project
